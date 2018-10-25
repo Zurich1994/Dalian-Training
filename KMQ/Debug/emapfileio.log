@@ -1,0 +1,22 @@
+﻿生成启动时间为 2015/2/5 21:45:48。
+     1>项目“F:\我的程序\C\实训\康明青\emapfileio.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\软件\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\emapfileio.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug\emapfileio.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\emapfileio.lib" /MACHINE:X86 /SAFESEH .\Debug\emapfileio.obj
+     1>emapfileio.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+     1>emapfileio.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall Road::Road(void)" (??0Road@@QAE@XZ)，该符号在函数 "int __cdecl openFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?openFile@@YAHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 中被引用
+     1>emapfileio.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall Road::Road(unsigned int,bool,int,int,char * const)" (??0Road@@QAE@I_NHHQAD@Z)，该符号在函数 "struct Road __cdecl readSingleRoad(struct _iobuf * &)" (?readSingleRoad@@YA?AURoad@@AAPAU_iobuf@@@Z) 中被引用
+     1>emapfileio.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall Road::Road(struct Road const &)" (??0Road@@QAE@ABU0@@Z)，该符号在函数 "int __cdecl openFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?openFile@@YAHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 中被引用
+     1>emapfileio.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall Road::~Road(void)" (??1Road@@QAE@XZ)，该符号在函数 "int __cdecl openFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?openFile@@YAHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 中被引用
+     1>emapfileio.obj : error LNK2019: 无法解析的外部符号 "public: bool __thiscall Road::operator==(struct Road)const " (??8Road@@QBE_NU0@@Z)，该符号在函数 "int __cdecl openFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?openFile@@YAHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 中被引用
+     1>emapfileio.obj : error LNK2019: 无法解析的外部符号 "public: struct Road & __thiscall Road::operator=(struct Road)" (??4Road@@QAEAAU0@U0@@Z)，该符号在函数 "int __cdecl openFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?openFile@@YAHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 中被引用
+     1>emapfileio.obj : error LNK2019: 无法解析的外部符号 "void __cdecl processPath(char *)" (?processPath@@YAXPAD@Z)，该符号在函数 "void __cdecl printAndSave(struct Road *,int)" (?printAndSave@@YAXPAURoad@@H@Z) 中被引用
+     1>emapfileio.obj : error LNK2001: 无法解析的外部符号 "struct Road * roads" (?roads@@3PAURoad@@A)
+     1>emapfileio.obj : error LNK2001: 无法解析的外部符号 "int roadsSize" (?roadsSize@@3HA)
+     1>emapfileio.obj : error LNK2001: 无法解析的外部符号 "bool sorted" (?sorted@@3_NA)
+     1>LIBCMTD.lib(crt0.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 ___tmainCRTStartup 中被引用
+     1>.\Debug\emapfileio.exe : fatal error LNK1120: 11 个无法解析的外部命令
+     1>已完成生成项目“F:\我的程序\C\实训\康明青\emapfileio.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.20

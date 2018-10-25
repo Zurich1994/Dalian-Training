@@ -1,0 +1,101 @@
+LinkID=80        flag=1         Bruch=3         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=161       flag=1         Bruch=3         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=616       flag=1         Bruch=3         dispclass=4         
+RoadName=１＝苏州嘉兴高速公路
+LinkID=678       flag=1         Bruch=3         dispclass=4         
+RoadName=１＝苏州嘉兴高速公路
+LinkID=1031      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1032      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1033      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1038      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1039      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1040      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1067      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1206      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝苏州嘉兴高速公路
+LinkID=1207      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝苏州嘉兴高速公路
+LinkID=1208      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝苏州嘉兴高速公路
+LinkID=1209      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝苏州嘉兴高速公路
+LinkID=1210      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝苏州嘉兴高速公路
+LinkID=1211      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝苏州嘉兴高速公路
+LinkID=1212      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝苏州嘉兴高速公路
+LinkID=1933      flag=1         Bruch=3         dispclass=6         
+RoadName=１＝320国道
+LinkID=1935      flag=1         Bruch=3         dispclass=6         
+RoadName=１＝320国道
+LinkID=1936      flag=1         Bruch=3         dispclass=6         
+RoadName=１＝320国道
+LinkID=1937      flag=1         Bruch=3         dispclass=6         
+RoadName=１＝320国道
+LinkID=1938      flag=1         Bruch=3         dispclass=6         
+RoadName=１＝320国道
+LinkID=1939      flag=1         Bruch=3         dispclass=6         
+RoadName=１＝320国道
+LinkID=1941      flag=1         Bruch=3         dispclass=6         
+RoadName=１＝320国道
+LinkID=1942      flag=1         Bruch=3         dispclass=6         
+RoadName=１＝320国道
+LinkID=2130      flag=1         Bruch=3         dispclass=6         
+RoadName=１＝104国道
+LinkID=2131      flag=1         Bruch=3         dispclass=6         
+RoadName=１＝104国道
+LinkID=2133      flag=1         Bruch=3         dispclass=6         
+RoadName=１＝104国道
+LinkID=10628     flag=0         Bruch=3         dispclass=11        
+LinkID=10631     flag=0         Bruch=3         dispclass=11        
+LinkID=10633     flag=0         Bruch=3         dispclass=11        
+LinkID=10640     flag=0         Bruch=3         dispclass=11        
+LinkID=10714     flag=0         Bruch=3         dispclass=11        
+LinkID=10715     flag=0         Bruch=3         dispclass=11        
+LinkID=10810     flag=0         Bruch=3         dispclass=11        
+LinkID=10812     flag=0         Bruch=3         dispclass=11        
+LinkID=11003     flag=0         Bruch=3         dispclass=11        
+LinkID=11004     flag=0         Bruch=3         dispclass=11        
+LinkID=11024     flag=0         Bruch=3         dispclass=11        
+LinkID=11201     flag=0         Bruch=3         dispclass=11        
+LinkID=11203     flag=0         Bruch=3         dispclass=11        
+LinkID=11347     flag=0         Bruch=3         dispclass=11        
+LinkID=11358     flag=0         Bruch=3         dispclass=11        
+LinkID=11387     flag=0         Bruch=3         dispclass=11        
+LinkID=11389     flag=0         Bruch=3         dispclass=11        
+LinkID=11391     flag=0         Bruch=3         dispclass=11        
+LinkID=11392     flag=0         Bruch=3         dispclass=11        
+LinkID=11400     flag=0         Bruch=3         dispclass=11        
+LinkID=11576     flag=0         Bruch=3         dispclass=11        
+LinkID=11577     flag=0         Bruch=3         dispclass=11        
+LinkID=11799     flag=0         Bruch=3         dispclass=11        
+LinkID=11824     flag=0         Bruch=3         dispclass=11        
+LinkID=11828     flag=0         Bruch=3         dispclass=11        
+LinkID=11852     flag=0         Bruch=3         dispclass=11        
+LinkID=12391     flag=0         Bruch=3         dispclass=11        
+LinkID=13409     flag=0         Bruch=3         dispclass=11        
+LinkID=13427     flag=0         Bruch=3         dispclass=11        
+LinkID=13439     flag=0         Bruch=3         dispclass=11        
+LinkID=13441     flag=0         Bruch=3         dispclass=11        
+LinkID=13443     flag=0         Bruch=3         dispclass=11        
+LinkID=13473     flag=0         Bruch=3         dispclass=11        
+LinkID=13497     flag=0         Bruch=3         dispclass=11        
+LinkID=13506     flag=0         Bruch=3         dispclass=11        
+LinkID=13507     flag=0         Bruch=3         dispclass=11        
+LinkID=13511     flag=0         Bruch=3         dispclass=11        
+LinkID=13517     flag=0         Bruch=3         dispclass=11        
+LinkID=13529     flag=0         Bruch=3         dispclass=11        
+LinkID=13533     flag=0         Bruch=3         dispclass=11        
+LinkID=13571     flag=0         Bruch=3         dispclass=11        
+LinkID=13580     flag=0         Bruch=3         dispclass=11        
+LinkID=13921     flag=0         Bruch=3         dispclass=11        

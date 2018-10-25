@@ -1,0 +1,196 @@
+﻿生成启动时间为 2015/2/24 20:59:57。
+     1>项目“F:\我的程序\C\实训\赵天华\赵天华\MFC.赵天华\电子地图.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (.\Debug\) contains files shared from another project (1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         D:\Software\Important\VS_2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Debug\电子地图.pch" /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+     1>d:\software\important\vs_2013\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+                 d:\software\important\vs_2013\vc\atlmfc\include\afx.h(33) : 参见“MBCS_Support_Deprecated_In_MFC”的声明
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         D:\Software\Important\VS_2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\电子地图.pch" /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "电子地图.cpp" "电子地图Dlg.cpp"
+         电子地图Dlg.cpp
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(301): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(303): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(336): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(347): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(390): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(450): warning C4018: “>”: 有符号/无符号不匹配
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(469): warning C4018: “>”: 有符号/无符号不匹配
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(474): warning C4018: “<=”: 有符号/无符号不匹配
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(496): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(532): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(590): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(638): warning C4018: “>”: 有符号/无符号不匹配
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(657): warning C4018: “>”: 有符号/无符号不匹配
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(662): warning C4018: “<=”: 有符号/无符号不匹配
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(684): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(742): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(790): warning C4018: “>”: 有符号/无符号不匹配
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(808): warning C4018: “>”: 有符号/无符号不匹配
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(813): warning C4018: “<=”: 有符号/无符号不匹配
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(834): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(893): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(922): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(990): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1016): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1045): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1047): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1050): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1052): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1054): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1077): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1079): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1082): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1084): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1086): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1110): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1112): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1115): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1117): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1119): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1127): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1129): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1132): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1134): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1136): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1164): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1166): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1169): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1171): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1173): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1198): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1200): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1203): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1205): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1207): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1234): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1236): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1239): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1241): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1243): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1256): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1258): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1261): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1263): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1265): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1296): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1298): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1301): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1303): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1305): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1331): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1333): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1336): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1338): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1340): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1366): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1368): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1371): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1373): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1375): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1383): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1385): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1388): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1390): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1392): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1421): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1423): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1426): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1428): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1430): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1453): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1455): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1458): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1460): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1462): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1486): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1488): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1491): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1493): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1495): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1504): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1506): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1509): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\stdlib.h(481) : 参见“_itoa”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1511): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图dlg.cpp(1513): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\important\vs_2013\vc\include\string.h(118) : 参见“strcat”的声明
+         电子地图.cpp
+     1>f:\我的程序\c\实训\赵天华\赵天华\mfc.赵天华\电子地图.cpp(52): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+                 d:\software\important\vs_2013\vc\atlmfc\include\afxwin.h(5178) : 参见“CWinApp::Enable3dControls”的声明
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _VC80_UPGRADE=0x0600 /D _AFXDLL /l"0x0804" /nologo /fo".\Debug\电子地图.res" "电子地图.rc" 
+       Link:
+         D:\Software\Important\VS_2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\电子地图.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\Software\Important\VS_2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:".\Debug\电子地图.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\电子地图.lib" /MACHINE:X86 /SAFESEH ".\Debug\电子地图.res"
+         .\Debug\StdAfx.obj
+         ".\Debug\电子地图.obj"
+         ".\Debug\电子地图Dlg.obj"
+     1>StdAfx.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+         电子地图.vcxproj -> F:\我的程序\C\实训\赵天华\赵天华\MFC.赵天华\.\Debug\电子地图.exe
+     1>已完成生成项目“F:\我的程序\C\实训\赵天华\赵天华\MFC.赵天华\电子地图.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.06

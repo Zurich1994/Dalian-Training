@@ -1,0 +1,11 @@
+﻿生成启动时间为 2015/2/24 20:54:47。
+     1>项目“F:\我的程序\C\实训\赵天华\赵天华\MFC.赵天华\1.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\Software\Important\VS_2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\1.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\Software\Important\VS_2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:".\Debug\1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\1.lib" /MACHINE:X86 /SAFESEH .\Debug\1.obj
+     1>1.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+         1.vcxproj -> F:\我的程序\C\实训\赵天华\赵天华\MFC.赵天华\.\Debug\1.exe
+     1>已完成生成项目“F:\我的程序\C\实训\赵天华\赵天华\MFC.赵天华\1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.56

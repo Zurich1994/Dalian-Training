@@ -1,0 +1,253 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\电子地图.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.chs\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\电子地图.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 235, 55
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "关于 电子地图"
+FONT 9, "宋体"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "电子地图 1.0 版",IDC_STATIC,40,10,119,8,SS_NOPREFIX
+    LTEXT           "版权所有 (C) 2013",IDC_STATIC,40,25,119,8
+    DEFPUSHBUTTON   "确定",IDOK,178,7,50,14,WS_GROUP
+END
+
+IDD_MY_DIALOG DIALOGEX 0, 0, 736, 393
+STYLE DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "电子地图"
+FONT 9, "宋体"
+BEGIN
+    DEFPUSHBUTTON   "确定",IDOK,679,341,50,14
+    PUSHBUTTON      "取消",IDCANCEL,679,372,50,14
+    GROUPBOX        "文件读入",IDC_STATIC,7,22,642,35
+    PUSHBUTTON      "文件读入",IDC_BUTTON1,313,36,322,14
+    GROUPBOX        "排序",IDC_STATIC,7,56,643,165
+    GROUPBOX        "检索",IDC_STATIC,7,221,645,115
+    GROUPBOX        "更新和输出",IDC_STATIC,7,337,647,49
+    PUSHBUTTON      "冒泡排序",IDC_BUTTON2,49,109,72,14
+    LTEXT           "欢迎使用本电子地图",IDC_STATIC,277,7,151,9
+    PUSHBUTTON      "冒泡排序",IDC_BUTTON3,183,109,72,14
+    PUSHBUTTON      "冒泡排序",IDC_BUTTON4,317,109,72,14
+    PUSHBUTTON      "冒泡排序",IDC_BUTTON5,451,109,72,14
+    PUSHBUTTON      "更新dat到C:\\GTBL.dat",IDC_BUTTON6,24,359,280,16
+    PUSHBUTTON      "输出txt到C:\\text.txt",IDC_BUTTON7,329,359,280,16
+    PUSHBUTTON      "按折半检索",IDC_BUTTON8,146,309,73,17
+    PUSHBUTTON      "按折半检索",IDC_BUTTON9,257,309,73,17
+    PUSHBUTTON      "按折半检索",IDC_BUTTON10,379,309,73,17
+    PUSHBUTTON      "按折半查找",IDC_BUTTON11,513,309,73,17
+    LTEXT           "请输入检索信息:",IDC_STATIC,38,256,72,14
+    EDITTEXT        IDC_EDIT1,146,251,73,17,ES_AUTOHSCROLL
+    PUSHBUTTON      "选择排序",IDC_BUTTON12,49,137,72,14
+    PUSHBUTTON      "插入排序",IDC_BUTTON13,49,164,72,14
+    PUSHBUTTON      "快速排序",IDC_BUTTON14,49,195,72,14
+    PUSHBUTTON      "按顺序检索",IDC_BUTTON15,146,282,73,17
+    PUSHBUTTON      "选择排序",IDC_BUTTON16,183,137,72,14
+    PUSHBUTTON      "插入排序",IDC_BUTTON17,183,164,72,14
+    PUSHBUTTON      "快速排序",IDC_BUTTON18,183,195,72,14
+    PUSHBUTTON      "选择排序",IDC_BUTTON19,317,137,72,14
+    PUSHBUTTON      "插入排序",IDC_BUTTON20,317,164,72,14
+    PUSHBUTTON      "快速排序",IDC_BUTTON21,317,195,72,14
+    PUSHBUTTON      "按顺序检索",IDC_BUTTON22,257,282,73,17
+    PUSHBUTTON      "按顺序检索",IDC_BUTTON23,379,282,73,17
+    PUSHBUTTON      "按顺序检索",IDC_BUTTON24,513,282,73,17
+    PUSHBUTTON      "选择排序",IDC_BUTTON25,451,133,72,14
+    PUSHBUTTON      "插入排序",IDC_BUTTON26,451,163,72,14
+    PUSHBUTTON      "快速排序",IDC_BUTTON27,451,195,72,14
+    EDITTEXT        IDC_EDIT2,257,248,73,17,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT3,379,251,73,17,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT4,513,251,73,17,ES_AUTOHSCROLL
+    LTEXT           "请选择检索方法:",IDC_STATIC,38,282,72,14
+    LTEXT           "按linkid检索",IDC_STATIC,146,231,73,17
+    LTEXT           "结果输出在C:\\findings.txt",IDC_STATIC,37,311,107,16
+    LTEXT           "按Class番号检索",IDC_STATIC,257,231,73,17
+    LTEXT           "按branch排序",IDC_STATIC,379,231,73,17
+    LTEXT           "按roadname检索",IDC_STATIC,513,231,73,17
+    LTEXT           "按linkid排序",IDC_STATIC,49,77,75,13
+    LTEXT           "按Class番号排序",IDC_STATIC,183,78,72,12
+    LTEXT           "按branch排序",IDC_STATIC,317,75,80,15
+    LTEXT           "按roadname排序",IDC_STATIC,451,75,82,15
+    LTEXT           "输入地址：",IDC_STATIC,31,37,48,12
+    EDITTEXT        IDC_EDIT5,93,36,183,12,ES_AUTOHSCROLL
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404B0"
+        BEGIN
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "电子地图 Microsoft 基础类应用程序\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "电子地图\0"
+            VALUE "LegalCopyright", "版权所有 (C) 2013\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "电子地图.EXE\0"
+            VALUE "ProductName", "电子地图 应用程序\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 48
+    END
+
+    IDD_MY_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 729
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 386
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_ABOUTBOX            "关于 电子地图(&A)..."
+END
+
+#endif    // Chinese (中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE 4, 2
+#pragma code_page(936)
+#endif //_WIN32
+#include "res\电子地图.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.chs\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

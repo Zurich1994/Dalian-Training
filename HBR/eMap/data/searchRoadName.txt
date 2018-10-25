@@ -1,0 +1,526 @@
+LinkID=2130      flag=1         Bruch=3         dispclass=6         
+RoadName=１＝104国道
+LinkID=2131      flag=1         Bruch=3         dispclass=6         
+RoadName=１＝104国道
+LinkID=2132      flag=1         Bruch=2         dispclass=6         
+RoadName=１＝104国道
+LinkID=2133      flag=1         Bruch=3         dispclass=6         
+RoadName=１＝104国道
+LinkID=2134      flag=1         Bruch=2         dispclass=6         
+RoadName=１＝104国道
+LinkID=2135      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2136      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2137      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2138      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2139      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2140      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2141      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2142      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2143      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2144      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2145      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2146      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2147      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2148      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2149      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2150      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2151      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2152      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2153      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2154      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2155      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2156      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2157      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2158      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2159      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2160      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2161      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2162      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2163      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2164      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2165      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2166      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2167      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2168      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2169      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2170      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2171      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2172      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2173      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2174      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2175      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2176      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2177      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2178      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2179      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2180      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2181      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+LinkID=2182      flag=1         Bruch=0         dispclass=6         
+RoadName=１＝104国道
+      Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=52        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=53        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=54        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=55        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=56        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=57        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=58        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=59        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=60        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=61        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=62        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=63        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=64        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=65        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=66        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=67        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=68        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=69        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=70        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=71        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=72        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=73        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=74        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=75        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=76        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=77        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=78        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=79        flag=1         Bruch=2         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=80        flag=1         Bruch=3         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=81        flag=1         Bruch=2         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=82        flag=1         Bruch=2         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=83        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=84        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=85        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=86        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=87        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=88        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=89        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=90        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=91        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=92        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=93        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=94        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=95        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=96        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=97        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=98        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=99        flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=100       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=101       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=102       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=103       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=104       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=105       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=106       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=107       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=108       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=109       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=110       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=111       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=112       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=113       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=114       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=115       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=116       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=117       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=118       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=119       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=120       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=121       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=122       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=123       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=124       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=125       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=126       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=127       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=128       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=129       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=130       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=131       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=132       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=133       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=134       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=135       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=136       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=137       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=138       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=139       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=140       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=141       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=142       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=143       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=144       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=145       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=146       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=147       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=148       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=149       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=150       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=151       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=152       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=153       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=154       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=155       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=156       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=157       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=158       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=159       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=160       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=161       flag=1         Bruch=3         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=162       flag=1         Bruch=1         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=163       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=164       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=938       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=939       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=940       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=941       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=942       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=943       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=944       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=945       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=946       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=947       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=948       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=949       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=950       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=951       flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1030      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1031      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1032      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1033      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1034      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1035      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1036      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1037      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1038      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1039      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1040      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1041      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1042      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1043      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1044      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1045      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1046      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1047      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1048      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1049      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1050      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1051      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1052      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1053      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1054      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1055      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1056      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1057      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1058      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1059      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1060      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1061      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1062      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1063      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1064      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1065      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1066      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1067      flag=1         Bruch=3         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1068      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=1069      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6082      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6083      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6084      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6085      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6086      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6087      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6088      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6089      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6090      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6091      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6092      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6093      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6094      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6095      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6096      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6097      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6098      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6099      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6100      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6101      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6102      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6103      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6104      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6105      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6106      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6107      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6108      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6109      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6110      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6111      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6112      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6113      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6114      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6115      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6116      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=6117      flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=14275     flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=14276     flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=14277     flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=14278     flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=14279     flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
+LinkID=14280     flag=1         Bruch=0         dispclass=4         
+RoadName=１＝沪杭高速公路
